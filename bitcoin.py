@@ -18,7 +18,6 @@ import base58
 import ecdsa
 
 
-# 
 SAMPLE_PASSPHRASE = "correct horse battery staple"
 
 def passphraseToPrivateKey(passphrase):
